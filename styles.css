@@ -1,0 +1,75 @@
+/*TODO: Add a background color or image to your website*/
+body {
+ /*background-color: #967bb6; */
+ font-family: helvetica, arial, sans-serif;
+ margin: 2em;
+ background-image: linear-gradient(90deg, pink, orchid);
+  );
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.topnav a {
+  float: right;
+  color: #f2f2f0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: darkorchid;
+}
+
+h1 {
+  color: navy;
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 25px;
+}
+.about{
+  font-size: 25px;
+  color: black;
+  padding: 200px;
+  
+}
+.pikachu{
+  text-align: center;
+  font-size: 40px;
+}
+
+
+/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+
+
+
+
+/*TODO: Use the * selector to reset the margin and padding to 0px*/
+
+
+
+
+
+/*TODO: Add styling rules for the text and images on your website.*/
+
+
+
+
+/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
+
+
+
+
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
